@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Me chamo Larissa e estou iniciando meu aprendizado em HTML, CSS e JavaScript junto com a resilia. 
 <!--
 **LariStar/LariStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
